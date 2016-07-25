@@ -123,6 +123,9 @@ $ karma start
 ```
 **Lista em constante atualização.**
 
+  [lamp] <https://www.howtoforge.com/tutorial/install-apache-with-php-and-mysql-on-ubuntu-lamp/> 
+
+
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
